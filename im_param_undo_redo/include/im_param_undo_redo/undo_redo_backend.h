@@ -1,6 +1,8 @@
 #pragma once
 
 #include "imgui.h"
+#include "imgui_candy/imgui_candy.h"
+
 #include "im_param/detail/cpp11_template_logic.h"
 #include "im_param/detail/backend.h"
 #include "im_param/backends/imgui_backend.h"
